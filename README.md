@@ -1,8 +1,7 @@
 ## Hello! Me chamo Luis Fellipe. 👋
 
-- 💻 Desenvolvedor Python com foco em automatização de processos
+- 💻 Desenvolvedor Java
 - 💻 Aspirante a Desenvolvedor Mobile cross-platform com React Native/
-- 💻 Trabalho atualmente na Brinquedos Bandeirante
 - 🎓 Cursando Gestão de TI na UAM
 
  <div>
