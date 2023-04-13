@@ -1,6 +1,6 @@
 ## Hello! Me chamo Luis Fellipe. 👋
 
-- 💻 Desenvolvedor Java
+- 💻 Desenvolvedor Python
 - 💻 Aspirante a Desenvolvedor Mobile cross-platform com React Native/
 - 🎓 Cursando Gestão de TI na UAM
 
