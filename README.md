@@ -1,8 +1,7 @@
 ## Hello! Me chamo Luis Fellipe. 👋
 
 - 💻 Desenvolvedor Python
-- 💻 Aspirante a Desenvolvedor Mobile cross-platform com React Native/
-- 🎓 Cursando Gestão de TI na UAM
+- 🎓 Cursando Ciência da Computação na USJT
 
  <div>
   <a href="https://github.com/hello-idev">
