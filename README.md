@@ -1,7 +1,7 @@
 ## Hello! Me chamo Luis Fellipe. 👋
 
 - 💻 Desenvolvedor Python
-- 🎓 Cursando Ciência da Computação na USJT
+- 🎓 Cursando ADS no SENAC
 
  <div>
   <a href="https://github.com/hello-idev">
